@@ -20,7 +20,7 @@ DO NOT BLAME US. YOU HAVE BEEN WARNED
 **Downloads**
 
 For DS backups you will need [TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu/releases/tag/v23.0.1) 
-TWiLight Menu includes NDS Bootstrap, but it is not properly set up for forwarders. If you want to learn more about forwarders, please follow out [this guide.](https://magolol.github.io/guides/3dsforwarders) If you have no interest in direct home menu forwarders, please ignore the guide.
+TWiLight Menu includes NDS Bootstrap, but it is not properly set up for forwarders. If you want to learn more about forwarders, please follow out [this guide.](https://friicove.github.io/guides/3dsforwarders) If you have no interest in direct home menu forwarders, please ignore the guide.
 
 **For 3DS**
 
@@ -84,6 +84,6 @@ Navigate to the directory you saved your `.nds` DS roms and launch the game of y
 
 Wow! wasn't that easy?
 
-[Return to main page](https://magolol.github.io)
+[Return to main page](https://friicove.github.io)
 
-[Return to guides](https://magolol.github.io)
+[Return to guides](https://friicove.github.io)

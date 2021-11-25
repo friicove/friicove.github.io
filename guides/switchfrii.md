@@ -7,7 +7,7 @@ You can obtain these by [dumping them yourself](https://suchmememanyskill.github
 **A few things to note**
 
 While hacking the system and installing unauthorized software is very easy, the switch is notorious for having a ton of telemetry which can result in a permanent system ban from all online services.
-We have many ways to prevent bans and block telemetry, and it is highly suggested you follow [this guide](https://magolol.github.io/guides/switchbanprotection) before continuing. 
+We have many ways to prevent bans and block telemetry, and it is highly suggested you follow [this guide](https://friicove.github.io/guides/switchbanprotection) before continuing. 
 
 **While the chances of your hardware being damaged are very small, this guide and it's afilliates assume no responsibility if something goes wrong. Blame yourself, your eyes, your hands, your brain, etc.**
 **ALWAYS MAKE A BACKUP. THE BEST BACKUP IS THE ONE YOU MADE BUT NEVER NEED, WHILE THE WORST ONE IS THE ONE YOU NEED BUT NEVER MADE.**
@@ -55,7 +55,7 @@ If all is correct, you will see the files on the switch. You can then use common
 
 Your totally legit backups should now appear on your homescreen. Wow! wasn't that easy?
 
-[Return to main page](https://magolol.github.io)
+[Return to main page](https://friicove.github.io)
 
-[Return to guides](https://magolol.github.io)
+[Return to guides](https://friicove.github.io)
 

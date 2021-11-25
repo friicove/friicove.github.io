@@ -1,3 +1,3 @@
-**[Guides](https://magolol.github.io/guides)**
+**[Guides](https://friicove.github.io/guides)**
 
 **[Discord Server](https://discord.gg/CvJZFxcPkg)**
