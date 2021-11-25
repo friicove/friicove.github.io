@@ -1,1 +1,1 @@
-# magolol.github.io
+# friicove.github.io
